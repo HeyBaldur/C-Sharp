@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\bin\Debug\Anonymous Methods and Lambda Expressions.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\bin\Debug\Anonymous Methods and Lambda Expressions.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\bin\Debug\Anonymous Methods and Lambda Expressions.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\obj\Debug\Anonymous Methods and Lambda Expressions.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\obj\Debug\Anonymous Methods and Lambda Expressions.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Anonymous Methods and Lambda Expressions\Anonymous Methods and Lambda Expressions\obj\Debug\Anonymous Methods and Lambda Expressions.pdb

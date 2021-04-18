@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

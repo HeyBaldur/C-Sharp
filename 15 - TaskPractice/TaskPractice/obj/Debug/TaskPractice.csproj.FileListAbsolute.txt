@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\bin\Debug\TaskPractice.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\bin\Debug\TaskPractice.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\bin\Debug\TaskPractice.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\obj\Debug\TaskPractice.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\obj\Debug\TaskPractice.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\TaskPractice\TaskPractice\obj\Debug\TaskPractice.pdb

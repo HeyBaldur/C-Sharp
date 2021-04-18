@@ -1,0 +1,10 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.deps.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.runtimeconfig.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.runtimeconfig.dev.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\bin\Debug\netcoreapp3.1\Virtual Methods.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\obj\Debug\netcoreapp3.1\Virtual Methods.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\obj\Debug\netcoreapp3.1\Virtual Methods.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\obj\Debug\netcoreapp3.1\Virtual Methods.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Virtual Methods\Virtual Methods\obj\Debug\netcoreapp3.1\Virtual Methods.pdb

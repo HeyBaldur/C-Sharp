@@ -1,0 +1,12 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\05 - Reflection\Reflection\obj\Debug\Reflection.pdb

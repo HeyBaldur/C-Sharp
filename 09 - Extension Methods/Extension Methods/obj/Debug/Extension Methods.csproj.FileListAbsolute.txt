@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\bin\Debug\Extension Methods.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\bin\Debug\Extension Methods.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\bin\Debug\Extension Methods.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\obj\Debug\Extension Methods.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\obj\Debug\Extension Methods.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Extension Methods\Extension Methods\obj\Debug\Extension Methods.pdb

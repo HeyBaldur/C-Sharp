@@ -1,0 +1,12 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\06 - Delegates\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,18 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Generics\Generics\obj\Debug\Generics.csproj.CopyComplete
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\obj\Debug\Generics.csproj.CopyComplete
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\03 - Generics\Generics\obj\Debug\Generics.pdb

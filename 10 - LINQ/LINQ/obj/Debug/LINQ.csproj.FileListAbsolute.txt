@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\LINQ\LINQ\obj\Debug\LINQ.pdb

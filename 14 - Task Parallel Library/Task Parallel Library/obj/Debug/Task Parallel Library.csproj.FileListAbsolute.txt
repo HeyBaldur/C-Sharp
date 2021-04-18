@@ -1,0 +1,6 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.exe.config
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.csprojAssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\Tuts+\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.pdb
