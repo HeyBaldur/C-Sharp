@@ -1,7 +1,7 @@
 # C-Sharp
-ASP.NET Core is the new version of the ASP.NET web framework mainly targeted to run on .NET Core platform.
 ![Image of Yaktocat](https://gblobscdn.gitbook.com/assets%2F-MLmQKyWXsqyyK9zphHu%2F-MTl1M9T5FjqGccJ_MSz%2F-MTl1Y4bpHM0tUx5sBvY%2FAsp-core.png?alt=media&token=08466ef1-fbe9-4577-8499-2ff80d6512fd)
 
+ASP.NET Core is the new version of the ASP.NET web framework mainly targeted to run on .NET Core platform.
 
 ### Description of this repo
 ASP.NET Core is a free, open-source, and cross-platform framework for building cloud-based applications, such as web apps, IoT apps, and mobile backends. It is designed to run on the cloud as well as on-premises.
